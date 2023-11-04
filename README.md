@@ -1,4 +1,4 @@
-# IMDB-sentiment
+# IMDB_sentiment
 Sentiment analysis on movie reviews. Performed pre-processing, tokenization and created word embeddings for a CNN model. Achieved a test set accuracy of 81.5%. 
 
 
